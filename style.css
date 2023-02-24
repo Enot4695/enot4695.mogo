@@ -133,13 +133,8 @@ h1, h2, h3, h4, h5, h6 {
     color: #fce38a;
 }
 
-.nav_link:hover:after,
-.nav_link.active:after{
+.nav_link:hover:after{
     opacity: 1;
-}
-
-.nav_link.active{
-    color: #fce38a;
 }
 
 /* Button */
